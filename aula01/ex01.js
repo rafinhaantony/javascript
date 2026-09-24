@@ -5,4 +5,4 @@ const prodTotal = qtdPecasPH * horasTurno
 
 console.log(`Producao por hora: ${qtdPecasPH}`);
 console.log(`Horas por turno: ${horasTurno}`);
-console.log(`Producao por turno: ${prodTotal}`);
+console.log(`Producao por turno: ${prodTotal}`); 
